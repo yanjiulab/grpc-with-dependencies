@@ -151,7 +151,7 @@ bloat_diff_old/
 bloaty-build/
 
 # cmake build files
-**/cmake/build/
+#**/cmake/build/
 
 # Visual Studio Code artifacts
 .cache/*
